@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Aver\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Aver\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_pr14.1651910079.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Aver\UnityProject\pr14" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="FibrumSDK" t="Include">
+          <e p="Editor" t="Include">
+            <e p="FibrumEditor.cs" t="Include" />
+            <e p="FibrumPhoneStartInspector.cs" t="Include" />
+            <e p="VRCameraInspector.cs" t="Include" />
+          </e>
+          <e p="Fibrum" t="Include">
+            <e p="ChangeCameraEye.cs" t="Include" />
+            <e p="Console.cs" t="Include" />
+            <e p="DisplayMetricsAndroid.cs" t="Include" />
+            <e p="FibrumController.cs" t="Include" />
+            <e p="FibrumInput.cs" t="Include" />
+            <e p="Joystick" t="Include">
+              <e p="JoystickSetup.cs" t="Include" />
+              <e p="JoystickSetupParameters.cs" t="Include" />
+            </e>
+            <e p="LensCorrection" t="Include">
+              <e p="LensCorrection.shader" t="Include" />
+              <e p="NewLensCorrection.cs" t="Include" />
+            </e>
+            <e p="Mobile Transparent Vertex Color.shader" t="Include" />
+            <e p="SetupUI" t="Include">
+              <e p="DisplayModePanelScript.cs" t="Include" />
+              <e p="FibUIAppearScript.cs" t="Include" />
+            </e>
+            <e p="UIpointer" t="Include">
+              <e p="VR_UIpointer.cs" t="Include" />
+            </e>
+            <e p="VR_GUI" t="Include">
+              <e p="MaskedCutOutTex.shader" t="Include" />
+              <e p="VR_canvas.cs" t="Include" />
+              <e p="VR_canvasUIcontroller.cs" t="Include" />
+              <e p="VRInputModule.cs" t="Include" />
+            </e>
+            <e p="VRCalibration.cs" t="Include" />
+            <e p="VRCamera.cs" t="Include" />
+            <e p="VRSensor.cs" t="Include" />
+            <e p="VRSetupGUI.cs" t="Include" />
+          </e>
+          <e p="FibrumLoader" t="Include">
+            <e p="FibrumPhoneStart.cs" t="Include" />
+            <e p="GameDisplayScript.cs" t="Include" />
+            <e p="SceneAnims" t="Include">
+              <e p="Main_Camera_GameDisplayScript_t.cs" t="Include" />
+              <e p="Main_Camera_GameDisplayScript_texT.cs" t="Include" />
+              <e p="Main_Camera_Transform_localPosition.cs" t="Include" />
+              <e p="Main_Camera_Transform_localRotation.cs" t="Include" />
+              <e p="phone_Renderer_enabled.cs" t="Include" />
+              <e p="phone_Transform_localPosition.cs" t="Include" />
+              <e p="phone_Transform_localRotation.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scenes" t="Include">
+            <e p="demoMaterials" t="Include">
+              <e p="GUIuserScript.cs" t="Include" />
+              <e p="JoystickSetupDemo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Interface.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="pr14.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
